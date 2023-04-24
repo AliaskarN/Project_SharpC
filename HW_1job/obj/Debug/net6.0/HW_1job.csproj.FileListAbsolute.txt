@@ -1,0 +1,15 @@
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\HW_1job.csproj.AssemblyReference.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\HW_1job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\HW_1job.AssemblyInfoInputs.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\HW_1job.AssemblyInfo.cs
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\HW_1job.csproj.CoreCompileInputs.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\bin\Debug\net6.0\HW_1job.exe
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\bin\Debug\net6.0\HW_1job.deps.json
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\bin\Debug\net6.0\HW_1job.runtimeconfig.json
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\bin\Debug\net6.0\HW_1job.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\bin\Debug\net6.0\HW_1job.pdb
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\HW_1job.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\refint\HW_1job.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\HW_1job.pdb
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\HW_1job.genruntimeconfig.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\HW_1job\obj\Debug\net6.0\ref\HW_1job.dll
