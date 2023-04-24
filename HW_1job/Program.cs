@@ -10,8 +10,10 @@ int numb = Convert.ToInt32(Console.ReadLine());
 
 if(numa > numb) {
     Console.WriteLine($"Max = {numa}");
+    Console.WriteLine($"Min = {numb}");
 }
 else
 {
     Console.WriteLine($"Max = {numb}");
+    Console.WriteLine($"Max = {numa}");
 }
