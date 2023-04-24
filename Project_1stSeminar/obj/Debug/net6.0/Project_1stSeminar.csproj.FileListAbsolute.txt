@@ -1,0 +1,15 @@
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\bin\Debug\net6.0\Project_1stSeminar.exe
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\bin\Debug\net6.0\Project_1stSeminar.deps.json
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\bin\Debug\net6.0\Project_1stSeminar.runtimeconfig.json
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\bin\Debug\net6.0\Project_1stSeminar.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\bin\Debug\net6.0\Project_1stSeminar.pdb
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\Project_1stSeminar.csproj.AssemblyReference.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\Project_1stSeminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\Project_1stSeminar.AssemblyInfoInputs.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\Project_1stSeminar.AssemblyInfo.cs
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\Project_1stSeminar.csproj.CoreCompileInputs.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\Project_1stSeminar.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\refint\Project_1stSeminar.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\Project_1stSeminar.pdb
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\Project_1stSeminar.genruntimeconfig.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Project_1stSeminar\obj\Debug\net6.0\ref\Project_1stSeminar.dll
