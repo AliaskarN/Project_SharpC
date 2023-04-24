@@ -1,0 +1,15 @@
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\bin\Debug\net6.0\Cw2_Seminar.exe
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\bin\Debug\net6.0\Cw2_Seminar.deps.json
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\bin\Debug\net6.0\Cw2_Seminar.runtimeconfig.json
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\bin\Debug\net6.0\Cw2_Seminar.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\bin\Debug\net6.0\Cw2_Seminar.pdb
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\Cw2_Seminar.csproj.AssemblyReference.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\Cw2_Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\Cw2_Seminar.AssemblyInfoInputs.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\Cw2_Seminar.AssemblyInfo.cs
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\Cw2_Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\Cw2_Seminar.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\refint\Cw2_Seminar.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\Cw2_Seminar.pdb
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\Cw2_Seminar.genruntimeconfig.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\Project_sharp_seminar\Cw2_Seminar\obj\Debug\net6.0\ref\Cw2_Seminar.dll
