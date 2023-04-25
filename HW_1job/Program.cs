@@ -31,7 +31,7 @@
 
                                                                 //РЕШЕНИЕ:
 
-
+// int Max = 0;
 // Console.WriteLine("Введите первое число");
 // int numa = Convert.ToInt32(Console.ReadLine());
 // Console.WriteLine("Введите второе число");
@@ -40,13 +40,10 @@
 // int numc = Convert.ToInt32(Console.ReadLine());
 
 
-// if (numb > Max)
-// {
-//     Console.WriteLine($"{numb} = Max");
-// }
+// if (numb > Max) Max = numb;
+// if(numc > Max) Max = numc;
 
-// else
-// {
-//     (numc > Max);
-//     Console.WriteLine($"{numc} = Max");
-// }
+// Console.WriteLine($"{Max} - Максимальное число");
+
+
+
